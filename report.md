@@ -104,9 +104,13 @@ AUC: Em todas as bases os valores foram satisfatórios (acima de 0.75), mostrand
 
 3.1. Curvas ROC
 
-📌 Figura 1 – Curva ROC para a base Amazon 
+📌 Figura 1 – Curva ROC para a base Amazon
+<img width="578" height="455" alt="download" src="https://github.com/user-attachments/assets/b72f7736-3351-49f8-bec6-f04e1cd64b11" />
 📌 Figura 2 – Curva ROC para a base Yelp
+<img width="578" height="455" alt="download" src="https://github.com/user-attachments/assets/f12f0b59-a911-42c7-9611-3c4eaa680cd0" />
 📌 Figura 3 – Curva ROC para a base IMDB
+<img width="578" height="455" alt="download" src="https://github.com/user-attachments/assets/1ccd666a-e7d8-4bfe-a847-3468303331d0" />
+
 
 
 4. Conclusão
