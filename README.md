@@ -12,7 +12,12 @@ random-forest-text-classification/
 │ ├── amazon_cells_labelled.txt # reviews de produtos da Amazon
 │ ├── imdb_labelled.txt # reviews de filmes do IMDb
 │ ├── yelp_labelled.txt # reviews de restaurantes do Yelp
-│── SMSbasePOC.ipynb # notebook principal com todo o pipeline
+├─ notebooks/
+│ ├── amazon_cells_labelled.ipynb
+│ ├── imdb_labelled.ipynb
+│ ├── yelp_labelled.ipynb
+├─ report/
+│ ├── report.md
 │── requirements.txt # bibliotecas necessárias
 │── README.md # este arquivo
 
