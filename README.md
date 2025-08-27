@@ -7,6 +7,7 @@ Este projeto tem como objetivo **classificar textos em categorias** usando algor
 
 ## 📂 Estrutura do Projeto
 
+```shell
 random-forest-text-classification/
 │── data/
 │ ├── amazon_cells_labelled.txt # reviews de produtos da Amazon
@@ -20,7 +21,7 @@ random-forest-text-classification/
 │ ├── report.md
 │── requirements.txt # bibliotecas necessárias
 │── README.md # este arquivo
-
+```
 
 Cada base contém textos anotados como **positivo (1)** ou **negativo (0)**.  
 
